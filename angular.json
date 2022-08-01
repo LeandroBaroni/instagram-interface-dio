@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "instagram-interface-dio"
+  "defaultProject": "instagram-interface-dio",
+  "cli": {
+    "analytics": "ee6bcc67-8e6e-425e-b83e-7cd677d23127"
+  }
 }
